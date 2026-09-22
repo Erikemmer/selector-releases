@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pre-release feed: -rc versions Scripts/release.sh publishes with
+     --prerelease. Kept separate from appcast.xml so a stable install is
+     never offered a release candidate by accident. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Selector (pre-release)</title>
+    <link>https://raw.githubusercontent.com/Erikemmer/selector-releases/main/appcast-beta.xml</link>
+    <description>Pre-release updates for Selector</description>
+    <language>en</language>
+  </channel>
+</rss>

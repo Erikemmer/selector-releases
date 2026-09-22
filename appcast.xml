@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stable update feed for Selector, written by Scripts/release.sh's
+     `generate_appcast` step. Empty until the first real release ships;
+     Sparkle treats an item-less channel as "no update available", not as
+     an error. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Selector</title>
+    <link>https://raw.githubusercontent.com/Erikemmer/selector-releases/main/appcast.xml</link>
+    <description>Updates for Selector</description>
+    <language>en</language>
+  </channel>
+</rss>

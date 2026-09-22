@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Pre-release feed: -rc versions Scripts/release.sh publishes with
-     --prerelease. Kept separate from appcast.xml so a stable install is
+<!-- Pre-release feed: -rc versions Scripts/release.sh publishes as GitHub
+     prereleases. Kept separate from appcast.xml so a stable install is
      never offered a release candidate by accident. -->
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
